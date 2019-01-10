@@ -1,4 +1,4 @@
-# silver_dmenu
+# silver-dmenu
 A slightly customized version of suckless.org's dmenu with the line height patch.
 
 
